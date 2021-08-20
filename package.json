@@ -1,0 +1,26 @@
+{
+  "name": "jobscalc",
+  "version": "1.0.0",
+  "description": "Projeto de Calculo de Jobs construido na Maratona Discovery Rocketseat #02",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoziondev/jobs-calc.git"
+  },
+  "keywords": [],
+  "author": "Léo Zion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leoziondev/jobs-calc/issues"
+  },
+  "homepage": "https://github.com/leoziondev/jobs-calc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
